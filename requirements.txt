@@ -1,0 +1,4 @@
+# No external dependencies -- pure asyncio + stdlib.
+# Add your real tool/LLM client libraries here, e.g.:
+# anthropic>=0.40.0
+# httpx>=0.27.0
